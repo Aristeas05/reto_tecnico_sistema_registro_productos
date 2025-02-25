@@ -1,0 +1,25 @@
+## Requisitos Previos
+Antes de instalar el proyecto, instalar lo siguiente:
+1. **Servidor Web** (Apache o Nginx) o XAMPP
+2. **PHP 7.4 o superior**
+3. **MySQL 5.7 o superior**
+
+---
+
+## Instalación del Proyecto
+
+### 1. Clonar el Repositorio
+git clone https://github.com/Aristeas05/reto_tecnico_sistema_registro_productos.git
+
+### 2. Configurar la Base de Datos
+Correr en MySql el archivo que se encuentra dentro de la carpeta sql. Con el se puede crear la bd y las tablas, junto a datos de prueba
+
+### 3. Configurar el Servidor Web
+Levantar XAMPP y dentro del mismo, Apache para poder correr el servidor
+Mover la carpeta del proyecto dentro de la carpeta httpdocs dentro de la ruta de XAMPP
+
+
+### 4. Validar y Probar el Proyecto
+1. Abre tu navegador y accede a:
+   http://localhost/productos/views/index.php
+2. Si carga la pantalla de inicio del proyecto, significa que todo está correctamente configurado.

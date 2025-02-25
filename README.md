@@ -1,2 +1,0 @@
-# reto_tecnico_sistema_registro_productos
-Reto técnico sistema_registro_productos
